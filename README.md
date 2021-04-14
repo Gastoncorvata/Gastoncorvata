@@ -2,10 +2,10 @@
 
 ####  Soy _Gaston Corvalan_, estudio FrontEnd, tengo conocimientos sobre :
 
->HTML5
-> CSS3
-> JavaScript
-> ReactJs
+> -HTML5
+> -CSS3
+> -JavaScript
+> -ReactJs
 
 
 
