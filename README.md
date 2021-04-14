@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-#### ** Soy *Gaston Corvalan*, estudio FrontEnd, tengo conocimientos sobre :**
+#### ** Soy _Gaston Corvalan_, estudio FrontEnd, tengo conocimientos sobre :**
 
->** HTML5, CSS3, JavaScript y ReactJs.**
+>__ HTML5, CSS3, JavaScript y ReactJs.__
 
 
 
