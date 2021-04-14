@@ -3,9 +3,9 @@
 ##  Soy _Gaston Corvalan_, estudio FrontEnd, tengo conocimientos sobre :
 
  >  HTML5  
- >  CSS3
- >  JavaScript
- >  ReactJs
+ >  CSS3       
+ >  JavaScript        
+ >  ReactJs          
 
 
 
@@ -27,5 +27,6 @@
 ```
 ```
 - 💬 Ask me about what you want.
-- :e-mail:  corvata@gmail.com 	:mailbox:
 ```
+:e-mail:  corvata@gmail.com 	:mailbox:
+
