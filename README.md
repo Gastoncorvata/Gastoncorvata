@@ -1,7 +1,5 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gastoncorvata)]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gastoncorvta&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gastoncorvata&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
 
 <!--
 **Gastoncorvata/Gastoncorvata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
