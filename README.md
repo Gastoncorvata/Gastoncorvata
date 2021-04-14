@@ -1,12 +1,13 @@
-## Hi there 👋
+# Hi there 👋
 
-####  Soy _Gaston Corvalan_, estudio FrontEnd, tengo conocimientos sobre :
+##  Soy _Gaston Corvalan_, estudio FrontEnd, tengo conocimientos sobre :
 
  >  HTML5
  >  CSS3
  >  JavaScript
  >  ReactJs
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 
 
