@@ -2,12 +2,11 @@
 
 ##  Soy _Gaston Corvalan_, estudio FrontEnd, tengo conocimientos sobre :
 
- >  HTML5
+ >  HTML5  
  >  CSS3
  >  JavaScript
  >  ReactJs
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+
 
 
 
@@ -28,4 +27,5 @@ Format: ![Alt Text](url)
 ```
 ```
 - 💬 Ask me about what you want.
+- :e-mail:  corvata@gmail.com 	:mailbox:
 ```
