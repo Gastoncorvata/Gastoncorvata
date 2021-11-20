@@ -3,10 +3,10 @@
 ##  Soy _Gaston Corvalan_ estoy estudiando Full Stack Developer, tengo conocimientos sobre :
 
  >  HTML5  
- >  CSS3    
- >  Bootstrap
- >  Taildwind
- >  Git   
+ >  CSS3     
+ >  Bootstrap   
+ >  Taildwind    
+ >  Git    
  >  JavaScript        
  >  ReactJs    
  >  Firebase                    
